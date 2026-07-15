@@ -1,5 +1,13 @@
 # Credit Card Fraud Detection
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+
+![XGBoost](https://img.shields.io/badge/XGBoost-Model-green)
+
+![License](https://img.shields.io/badge/License-ODbL-lightgrey)
+
 A machine learning capstone project for the Asian Institute of Management (AIM), applying binary classification to detect fraudulent credit card transactions. Built on the ULB Credit Card Fraud dataset, this project covers the full ML lifecycle — problem framing, EDA, feature engineering, SHAP explainability, imbalance handling, model comparison, and bias/fairness auditing.
 
 ---
@@ -18,6 +26,18 @@ A machine learning capstone project for the Asian Institute of Management (AIM),
 
 Despite using a European cardholder dataset, this project is framed with direct relevance to the Philippine digital payments landscape, where the Bangko Sentral ng Pilipinas (BSP) has flagged fraud as a growing systemic risk and no comparable public dataset currently exists.
 
+---
+## 🎯 Project Objectives
+
+This project aims to:
+
+- Detect fraudulent credit card transactions using supervised machine learning.
+- Explore and understand highly imbalanced financial transaction data.
+- Engineer and select informative features for fraud prediction.
+- Compare multiple machine learning models under different imbalance handling strategies.
+- Interpret model predictions using SHAP explainability.
+- Assess model fairness and potential bias.
+- Deliver a reproducible machine learning workflow suitable for deployment and future enhancement.
 ---
 
 ## 🗂️ Repository Structure
@@ -129,13 +149,26 @@ Three resampling strategies were prepared and compared: SMOTE (oversampling to 1
 ## 📄 Reports
 
 Full written deliverables for each project step are available in [`reports/`](./reports):
-- Step 1: Problem Understanding & Framing
-- Step 2: Data Collection & Understanding
-- (Step 3 EDA + Feature Engineering Report — derived from `notebooks/01` and `02`)
+- Step 1 – Problem Framing
+- Step 2 – Data Understanding
+- Step 3 – Exploratory Data Analysis & Feature Engineering
+- Step 4 – Model Development & Evaluation
+- Step 5 – Ethical AI & Bias Assessment
+- Step 6 – Technical & Business Presentations
 
 ---
+## 🚀 Future Work
 
+Potential improvements include:
+
+- Real-time fraud detection deployment
+- Deep learning models
+- Cost-sensitive learning
+- Streaming transaction scoring
+- Drift monitoring
 ## 📝 License
+
+---
 
 This project is submitted as part of the AIM Machine Learning capstone coursework. Dataset license: [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/), courtesy of the ULB Machine Learning Group.
 
