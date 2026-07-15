@@ -13,7 +13,7 @@ A machine learning capstone project for the Asian Institute of Management (AIM),
 | **Dataset** | [ULB Credit Card Fraud Detection (Kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) |
 | **Records** | 284,807 transactions (473 fraud after cleaning, 0.167%) |
 | **Primary Metrics** | AUC-ROC, F1-Score, Precision-Recall AUC |
-| **Author** | Erick |
+| **Author** | Erickson Tan |
 | **Institution** | Asian Institute of Management |
 
 Despite using a European cardholder dataset, this project is framed with direct relevance to the Philippine digital payments landscape, where the Bangko Sentral ng Pilipinas (BSP) has flagged fraud as a growing systemic risk and no comparable public dataset currently exists.
