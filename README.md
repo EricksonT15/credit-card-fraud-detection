@@ -176,6 +176,6 @@ This project is submitted as part of the AIM Machine Learning capstone coursewor
 
 ## 🙋 Author
 
-**Erick**
+**Erickson Tan**
 Asian Institute of Management — Postgraduate Program
 [GitHub](https://github.com/EricksonT15)
