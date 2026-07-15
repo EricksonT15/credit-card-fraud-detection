@@ -174,8 +174,13 @@ This project is submitted as part of the AIM Machine Learning capstone coursewor
 
 ---
 
-## 🙋 Author
+## 👨‍💻 Author
 
 **Erickson Tan**
-Asian Institute of Management — Postgraduate Program
-[GitHub](https://github.com/EricksonT15)
+
+Machine Learning & Artificial Intelligence Program
+
+Asian Institute of Management
+
+GitHub:
+https://github.com/EricksonT15
