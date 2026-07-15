@@ -75,3 +75,6 @@ Thumbs.db
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !models/.gitkeep
+
+
+Improve .gitignore for project cleanup
